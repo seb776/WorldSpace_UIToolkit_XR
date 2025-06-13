@@ -6,9 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Scenes/WorldSpace_UIToolkit.unity
+    path: Assets/WorldSpaceUIToolkit/_Scenes/WorldSpace_UIToolkit.unity
     guid: 738fdb6eaa023a042b9b1cd8cf9bb6d5
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d52b9872639f927489c831e87df20cef, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 72a452bd7b27c4141932452c807de7c3, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e18e9698ab71a5946b9c54d33b6f0db8, type: 2}
+  m_UseUCBPForAssetBundles: 0
